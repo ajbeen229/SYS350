@@ -1,0 +1,6 @@
+{
+    "vCenter": {
+        "vCenterHost" : "vcenter.alex.local",
+        "vCenterAdmin" : "alex-adm@alex.local"
+    }
+}
